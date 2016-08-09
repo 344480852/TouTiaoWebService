@@ -18,9 +18,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by huzihao on 2016/7/2.
- */
 @Controller
 public class HomeController {
     @Autowired

@@ -20,9 +20,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/2.
- */
 @Controller
 public class NewsController {
     private static final Logger logger = LoggerFactory.getLogger(NewsController.class);

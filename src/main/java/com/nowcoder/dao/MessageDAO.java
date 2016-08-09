@@ -10,9 +10,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/9.
- */
 @Mapper
 @Repository
 public interface MessageDAO {

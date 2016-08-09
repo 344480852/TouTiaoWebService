@@ -11,9 +11,6 @@ import redis.clients.jedis.*;
 
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/13.
- */
 @Service
 public class JedisAdapter implements InitializingBean {
     private static final Logger logger = LoggerFactory.getLogger(JedisAdapter.class);

@@ -11,9 +11,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.*;
 
-/**
- * Created by nowcoder on 2016/7/16.
- */
 @Component
 public class LoginExceptionHandler implements EventHandler {
     @Autowired

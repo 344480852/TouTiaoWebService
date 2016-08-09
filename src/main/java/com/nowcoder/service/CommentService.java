@@ -8,9 +8,6 @@ import org.springframework.stereotype.Service;
 import javax.websocket.server.ServerEndpoint;
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/9.
- */
 @Service
 public class CommentService {
     @Autowired

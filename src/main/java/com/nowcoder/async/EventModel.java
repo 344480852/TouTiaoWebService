@@ -3,9 +3,6 @@ package com.nowcoder.async;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by nowcoder on 2016/7/16.
- */
 public class EventModel {
     private EventType type;
     private int actorId;

@@ -4,9 +4,6 @@ import com.nowcoder.model.User;
 import org.apache.ibatis.annotations.*;
 import org.springframework.stereotype.Repository;
 
-/**
- * Created by nowcoder on 2016/7/2.
- */
 @Mapper
 @Repository
 public interface UserDAO {

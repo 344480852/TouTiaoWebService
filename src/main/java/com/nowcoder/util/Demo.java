@@ -3,9 +3,6 @@ package com.nowcoder.util;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
-/**
- * Created by 344480852 on 2016/8/4.
- */
 public class Demo {
     public static void main(String[] args){
         try{
